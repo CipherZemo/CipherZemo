@@ -28,10 +28,11 @@ I believe in learning by **building real projects**, breaking things, fixing the
 ## 📂 Projects
 
 I’m actively working on:
-- Backend CRUD applications
+- Backend applications
 - Authentication & authorization flows
 - Full-stack MERN mini-projects
 - Improving code structure and readability
+- Interactive REACT frontend for robust UI/UX
 
 > Each project reflects my current level — progress matters more than perfection.
 
