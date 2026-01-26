@@ -11,7 +11,7 @@ I believe in learning by **building real projects**, breaking things, fixing the
 - **JavaScript** (core language, async behavior, promises)
 - **Node.js** & **Express.js** (backend logic, APIs)
 - **MongoDB** & **Mongoose** (databases, data modeling)
-- **React** (component-based UI, state, hooks — in progress)
+- **React** (component-based UI, state, hooks)
 - **Git & GitHub** (version control, collaboration workflows)
 
 ---
@@ -30,7 +30,7 @@ I believe in learning by **building real projects**, breaking things, fixing the
 I’m actively working on:
 - Backend applications
 - Authentication & authorization flows
-- Full-stack MERN mini-projects
+- Full-stack MERN projects
 - Improving code structure and readability
 - Interactive REACT frontend for robust UI/UX
 
